@@ -1,16 +1,78 @@
-# notes_app
+# 📝 NoteFlow
 
-A new Flutter project.
+A modern and elegant note-taking application built with **Flutter** and **Hive**. NoteFlow helps you capture ideas, organize notes, and stay productive with a clean, intuitive interface.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 📝 Create, edit, and delete notes
+* 📌 Pin important notes
+* 🔍 Search notes instantly
+* 🌙 Dark & Light theme support
+* 💾 Offline storage using Hive
+* 🎨 Modern Material 3 UI
+* ✨ Smooth splash screen animation
+* 📱 Responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Screenshots will be added soon.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Hive Database
+* Material 3
+* Intl Package
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/zainwaqasDev/NoteFlow.git
+```
+
+### Navigate to the project
+
+```bash
+cd NoteFlow
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the app
+
+```bash
+flutter run
+```
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── Screens/
+ ├── main.dart
+ ├── note.dart
+ ├── note_action.dart
+ ├── glass_menu.dart
+ ├── custom_notification.dart
+ └── sort_options.dart
+```
+
+## 👨‍💻 Developer
+
+**Zain Waqas**
+
+Flutter Developer passionate about building beautiful and practical mobile applications.
+
+GitHub:
+https://github.com/zainwaqasDev
+
+---
+
+⭐ If you like this project, consider giving it a star.
