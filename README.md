@@ -15,7 +15,7 @@ A modern and elegant note-taking application built with **Flutter** and **Hive**
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+> Visit the folder Screenshots
 
 ## 🛠 Tech Stack
 
