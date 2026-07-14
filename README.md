@@ -19,49 +19,15 @@ A modern and intuitive note-taking application built with **Flutter**. NoteFlow 
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.jpeg" width="230"/>
-  <img src="screenshots/add_note.jpeg" width="230"/>
-  <img src="screenshots/note_display.jpeg" width="230"/>
-</p>
+> Screenshots will be added soon.
 
-<p align="center">
-  <img src="screenshots/search_bar.jpeg" width="230"/>
-  <img src="screenshots/sort_menu.jpeg" width="230"/>
-  <img src="screenshots/button_menu.jpeg" width="230"/>
-</p>
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="screenshots/selected_note.jpeg" width="230"/>
-  <img src="screenshots/dark_mode.jpeg" width="230"/>
-  <img src="screenshots/splash.jpeg" width="230"/>
-</p>
-
----
-
-## 🛠️ Built With
-
-- Flutter
-- Dart
-- Hive Database
-- Material Design 3
-
----
-
-## 📂 Project Structure
-
-```
-lib/
-├── Screens/
-├── main.dart
-├── note.dart
-├── note_action.dart
-├── custom_notification.dart
-├── glass_menu.dart
-└── sort_options.dart
-```
-
----
+* Flutter
+* Dart
+* Hive Database
+* Material 3
+* Intl Package
 
 ## 🚀 Getting Started
 
