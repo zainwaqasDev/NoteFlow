@@ -19,7 +19,23 @@ A modern and intuitive note-taking application built with **Flutter**. NoteFlow 
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+<p align="center">
+  <img src="screenshots/home.jpeg" width="180"/>
+  <img src="screenshots/add_note.jpeg" width="180"/>
+  <img src="screenshots/note_display.jpeg" width="180"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/search_bar.jpeg" width="180"/>
+  <img src="screenshots/sort_menu.jpeg" width="180"/>
+  <img src="screenshots/button_menu.jpeg" width="180"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/selected_note.jpeg" width="180"/>
+  <img src="screenshots/dark_mode.jpeg" width="180"/>
+  <img src="screenshots/splash.jpeg" width="180"/>
+</p>
 
 ## 🛠 Tech Stack
 
