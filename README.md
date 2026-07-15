@@ -124,17 +124,6 @@ flutter run
 
 ---
 
-# 🔮 Future Improvements
-
-- ☁️ Cloud Sync
-- 🔐 Fingerprint Lock
-- 📅 Note Reminders
-- 🏷️ Categories & Labels
-- 🎨 Rich Text Notes
-- 📤 Backup & Restore
-- 📱 Home Screen Widgets
-
----
 
 # 👨‍💻 Developer
 
