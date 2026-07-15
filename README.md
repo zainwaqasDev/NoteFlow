@@ -1,51 +1,102 @@
+<div align="center">
+
 # 📒 NoteFlow
 
-A modern and intuitive note-taking application built with **Flutter**. NoteFlow provides a clean user interface, offline storage, note organization, search functionality, dark mode, and a smooth user experience for managing daily notes.
+### A modern, elegant, and offline-first note-taking application built with Flutter.
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter">
+<img src="https://img.shields.io/badge/Dart-3.x-blue?logo=dart">
+<img src="https://img.shields.io/badge/Hive-Database-yellow">
+<img src="https://img.shields.io/badge/Platform-Android-green">
+<img src="https://img.shields.io/badge/License-MIT-red">
+</p>
+
+</div>
 
 ---
 
-## ✨ Features
+## ✨ Overview
+
+**NoteFlow** is a beautifully designed Flutter notes application focused on speed, simplicity, and productivity.
+
+Whether you're writing quick ideas, keeping daily notes, or organizing important information, NoteFlow provides a smooth and distraction-free experience while keeping all your notes securely stored offline.
+
+---
+
+# ✨ Features
 
 - 📝 Create, edit and delete notes
 - 📌 Pin important notes
-- 🔍 Search notes instantly
+- 🔍 Instant search
 - 📂 Sort notes
 - 🌙 Light & Dark Mode
-- 💾 Offline storage using Hive
-- 🎨 Modern Material Design UI
-- ⚡ Fast and responsive performance
+- 💾 Offline storage with Hive
+- 🎨 Clean Material 3 UI
+- ⚡ Fast & responsive experience
+- 📱 Beautiful splash screen
+- 🔔 Custom notifications
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.jpeg" width="180"/>
-  <img src="screenshots/add_note.jpeg" width="180"/>
-  <img src="screenshots/note_display.jpeg" width="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="screenshots/search_bar.jpeg" width="180"/>
-  <img src="screenshots/sort_menu.jpeg" width="180"/>
-  <img src="screenshots/button_menu.jpeg" width="180"/>
-</p>
+<img src="screenshots/home.jpeg" width="170"/>
+<img src="screenshots/add_note.jpeg" width="170"/>
+<img src="screenshots/note_display.jpeg" width="170"/>
 
-<p align="center">
-  <img src="screenshots/selected_note.jpeg" width="180"/>
-  <img src="screenshots/dark_mode.jpeg" width="180"/>
-  <img src="screenshots/splash.jpeg" width="180"/>
-</p>
+<br><br>
 
-## 🛠 Tech Stack
+<img src="screenshots/search_bar.jpeg" width="170"/>
+<img src="screenshots/sort_menu.jpeg" width="170"/>
+<img src="screenshots/button_menu.jpeg" width="170"/>
 
-* Flutter
-* Dart
-* Hive Database
-* Material 3
-* Intl Package
+<br><br>
 
-## 🚀 Getting Started
+<img src="screenshots/selected_note.jpeg" width="170"/>
+<img src="screenshots/dark_mode.jpeg" width="170"/>
+<img src="screenshots/splash.jpeg" width="170"/>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Flutter | Cross-platform App Development |
+| Dart | Programming Language |
+| Hive | Local Database |
+| Material 3 | User Interface |
+| Intl | Date & Time Formatting |
+
+---
+
+# 📂 Project Structure
+
+```
+lib/
+├── Screens/
+│   ├── splash_screen.dart
+│   ├── notes_screen.dart
+│   ├── add_note_screen.dart
+│   ├── note_details_screen.dart
+│   └── about_screen.dart
+│
+├── note.dart
+├── note_action.dart
+├── custom_notification.dart
+├── glass_menu.dart
+├── sort_options.dart
+└── main.dart
+```
+
+---
+
+# 🚀 Getting Started
 
 Clone the repository
 
@@ -53,7 +104,7 @@ Clone the repository
 git clone https://github.com/zainwaqasDev/NoteFlow.git
 ```
 
-Go into the project
+Navigate to the project
 
 ```bash
 cd NoteFlow
@@ -73,16 +124,34 @@ flutter run
 
 ---
 
+# 🔮 Future Improvements
 
-## 👨‍💻 Developer
-
-**Zain Waqas**
-
-Flutter Developer
-
-GitHub:
-https://github.com/zainwaqasDev
+- ☁️ Cloud Sync
+- 🔐 Fingerprint Lock
+- 📅 Note Reminders
+- 🏷️ Categories & Labels
+- 🎨 Rich Text Notes
+- 📤 Backup & Restore
+- 📱 Home Screen Widgets
 
 ---
 
-⭐ If you like this project, consider giving it a star.
+# 👨‍💻 Developer
+
+## Zain Waqas
+
+Aspiring Flutter Developer passionate about building modern, clean, and user-friendly mobile applications.
+
+GitHub
+
+👉 https://github.com/zainwaqasDev
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a Star!
+
+Made with ❤️ using Flutter
+
+</div>
